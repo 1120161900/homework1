@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="thisisabutton">login</string>
+    <string name="radio">this is a radio group</string>
+    <string name="text">this is a textview</string>
+    <string name="choose">是否开启模式</string>
+    <string name="username">用户名</string>
+    <string name="passwd">密码</string>>
+</resources>
